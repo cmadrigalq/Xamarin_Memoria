@@ -1,0 +1,21 @@
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Debug/netstandard2.0/Memoria_lab_4.deps.json
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Debug/netstandard2.0/Memoria_lab_4.dll
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Debug/netstandard2.0/Memoria_lab_4.pdb
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.csproj.CoreCompileInputs.cache
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.App.xaml.g.cs
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.MainPage.xaml.g.cs
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.AssemblyInfoInputs.cache
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.AssemblyInfo.cs
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.dll
+/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Debug/netstandard2.0/Memoria_lab_4.pdb
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\bin\Debug\netstandard2.0\Memoria_lab_4.deps.json
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\bin\Debug\netstandard2.0\Memoria_lab_4.dll
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\bin\Debug\netstandard2.0\Memoria_lab_4.pdb
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.csproj.CoreCompileInputs.cache
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.App.xaml.g.cs
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.MainPage.xaml.g.cs
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.AssemblyInfoInputs.cache
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.AssemblyInfo.cs
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.dll
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.pdb
+C:\Users\jdani\Dropbox\D&C\LAB_4\Memoria_lab_4\Memoria_lab_4\Memoria_lab_4\obj\Debug\netstandard2.0\Memoria_lab_4.csprojResolveAssemblyReference.cache

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+x:Class="Memoria_lab_4.MainPage"
+Title = "Memoria"
+BackgroundColor="Gray">
+    <ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness">
+            <On Platform="iOS" Value="20, 40, 20, 20" />
+            <On Platform="Android, WinPhone, Windows" Value="20" />
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="plainButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#eee"/>
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BorderRadius" Value="1"/>
+                <Setter Property="FontSize" Value="20" />
+            </Style>
+            <Style x:Key="orangeButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#09934D"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="25" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <Grid x:Name="controlGrid" RowSpacing="0.7" ColumnSpacing="0.7">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label x:Name="etiqueta" Text="JUGAR MEMORIA" Grid.Row="0" HorizontalTextAlignment="Center" VerticalTextAlignment="Center" TextColor="Blue"
+        FontSize="40" Grid.ColumnSpan="6" />
+            <!-- FILA #1-->
+            <Button x:Name="B10" Clicked ="onClick" Text = " " Grid.Row="1" Grid.Column="0"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B11" Clicked ="onClick" Text = " " Grid.Row="1" Grid.Column="1"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B12" Clicked ="onClick" Text = " " Grid.Row="1" Grid.Column="2"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B13" Clicked ="onClick" Text = " " Grid.Row="1" Grid.Column="3"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B14" Clicked ="onClick" Text = " " Grid.Row="1" Grid.Column="4"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B15" Clicked ="onClick" Text = " " Grid.Row="1" Grid.Column="5"
+        Style="{StaticResource plainButton}" />
+
+            <!-- FILA #2-->
+            <Button x:Name="B20" Clicked ="onClick" Text = " " Grid.Row="2" Grid.Column="0"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B21" Clicked ="onClick" Text = " " Grid.Row="2" Grid.Column="1"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B22" Clicked ="onClick" Text = " " Grid.Row="2" Grid.Column="2"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B23" Clicked ="onClick" Text = " " Grid.Row="2" Grid.Column="3"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B24" Clicked ="onClick" Text = " " Grid.Row="2" Grid.Column="4"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B25" Clicked ="onClick" Text = " " Grid.Row="2" Grid.Column="5"
+        Style="{StaticResource plainButton}" />
+
+            <!-- FILA #3-->
+            <Button x:Name="B30" Clicked ="onClick" Text = " " Grid.Row="3" Grid.Column="0"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B31" Clicked ="onClick" Text = " " Grid.Row="3" Grid.Column="1"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B32" Clicked ="onClick" Text = " " Grid.Row="3" Grid.Column="2"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B33" Clicked ="onClick" Text = " " Grid.Row="3" Grid.Column="3"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B34" Clicked ="onClick" Text = " " Grid.Row="3" Grid.Column="4"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B35" Clicked ="onClick" Text = " " Grid.Row="3" Grid.Column="5"
+        Style="{StaticResource plainButton}" />
+
+
+            <!-- FILA #4-->
+            <Button x:Name="B40" Clicked ="onClick" Text = " " Grid.Row="4" Grid.Column="0"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B41" Clicked ="onClick" Text = " " Grid.Row="4" Grid.Column="1"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B42" Clicked ="onClick" Text = " " Grid.Row="4" Grid.Column="2"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B43" Clicked ="onClick" Text = " " Grid.Row="4" Grid.Column="3"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B44" Clicked ="onClick" Text = " " Grid.Row="4" Grid.Column="4"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B45" Clicked ="onClick" Text = " " Grid.Row="4" Grid.Column="5"
+        Style="{StaticResource plainButton}" />
+
+            <!-- FILA #5-->
+            <Button x:Name="B50" Clicked ="onClick" Text = " " Grid.Row="5" Grid.Column="0"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B51" Clicked ="onClick" Text = " " Grid.Row="5" Grid.Column="1"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B52" Clicked ="onClick" Text = " " Grid.Row="5" Grid.Column="2"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B53" Clicked ="onClick" Text = " " Grid.Row="5" Grid.Column="3"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B54" Clicked ="onClick" Text = " " Grid.Row="5" Grid.Column="4"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B55" Clicked ="onClick" Text = " " Grid.Row="5" Grid.Column="5"
+        Style="{StaticResource plainButton}" />
+
+            <!-- FILA #6-->
+            <Button x:Name="B60" Clicked ="onClick" Text = " " Grid.Row="6" Grid.Column="0"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B61" Clicked ="onClick" Text = " " Grid.Row="6" Grid.Column="1"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B62" Clicked ="onClick" Text = " " Grid.Row="6" Grid.Column="2"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B63" Clicked ="onClick" Text = " " Grid.Row="6" Grid.Column="3"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B64" Clicked ="onClick" Text = " " Grid.Row="6" Grid.Column="4"
+        Style="{StaticResource plainButton}" />
+            <Button x:Name="B65" Clicked ="onClick" Text = " " Grid.Row="6" Grid.Column="5"
+        Style="{StaticResource plainButton}" />
+
+
+            <Button Text = "Ver solucion" Grid.ColumnSpan="6"
+                    Clicked ="onSolution"
+                    Grid.Row="7"  Style="{StaticResource orangeButton}" />
+
+            <Button Text = "Reiniciar" Grid.ColumnSpan="6"
+                    Clicked ="onReset"
+                    Grid.Row="8"  Style="{StaticResource orangeButton}" />
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
