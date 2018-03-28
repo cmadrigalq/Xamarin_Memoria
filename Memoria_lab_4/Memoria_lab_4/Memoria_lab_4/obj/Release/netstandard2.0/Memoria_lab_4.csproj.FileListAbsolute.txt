@@ -9,3 +9,14 @@
 /Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.dll
 /Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.pdb
 /Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.csprojResolveAssemblyReference.cache
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.deps.json
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.dll
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.pdb
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.csprojResolveAssemblyReference.cache
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.csproj.CoreCompileInputs.cache
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.App.xaml.g.cs
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.MainPage.xaml.g.cs
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.AssemblyInfoInputs.cache
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.AssemblyInfo.cs
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.dll
+/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/obj/Release/netstandard2.0/Memoria_lab_4.pdb

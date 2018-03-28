@@ -89,7 +89,7 @@ namespace Memoria_lab_4
             volteaCasilla(b);
             segundoChr = b.Text;
             ++modo;
-            if(parejasEncontradas == 15){
+            if(parejasEncontradas == 17){
                 this.final();
             }
         }

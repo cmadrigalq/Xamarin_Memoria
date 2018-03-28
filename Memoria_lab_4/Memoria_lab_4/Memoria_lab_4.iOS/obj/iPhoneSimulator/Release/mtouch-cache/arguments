@@ -1,7 +1,7 @@
 # Version: 11.8.0.20 (d15-6: 1c6f300e)
-# [first argument, ignore] # --cache=/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/obj/iPhoneSimulator/Release/mtouch-cache
+# [first argument, ignore] # --cache=/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/obj/iPhoneSimulator/Release/mtouch-cache
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mtouch/mtouch.exe \
-	'--sim=/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/bin/iPhoneSimulator/Release/Memoria_lab_4.iOS.app' \
+	'--sim=/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/bin/iPhoneSimulator/Release/Memoria_lab_4.iOS.app' \
 	--executable=Memoria_lab_4.iOS \
 	--nolink \
 	--sdkroot=/Applications/Xcode.app/Contents/Developer \
@@ -10,9 +10,9 @@
 	--aot-options=-O=-float32 \
 	--http-message-handler=HttpClientHandler \
 	--abi=x86_64 \
-	'--symbollist=/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/obj/iPhoneSimulator/Release/mtouch-symbols.list' \
+	'--symbollist=/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/obj/iPhoneSimulator/Release/mtouch-symbols.list' \
 	--dsym=no \
-	'-r=/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.dll' \
+	'-r=/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.dll' \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
@@ -197,6 +197,6 @@
 	-r=/Users/Cyn/.nuget/packages/xamarin.forms/2.5.0.280555/lib/Xamarin.iOS10/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r=/Users/Cyn/.nuget/packages/xamarin.forms/2.5.0.280555/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll \
 	-r=/Users/Cyn/.nuget/packages/xamarin.forms/2.5.0.280555/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll \
-	'-r=/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.dll' \
+	'-r=/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/bin/Release/netstandard2.0/Memoria_lab_4.dll' \
 	'--target-framework=Xamarin.iOS,v1.0' \
-	'--root-assembly=/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/bin/iPhoneSimulator/Release/Memoria_lab_4.iOS.exe' \
+	'--root-assembly=/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.iOS/bin/iPhoneSimulator/Release/Memoria_lab_4.iOS.exe' \

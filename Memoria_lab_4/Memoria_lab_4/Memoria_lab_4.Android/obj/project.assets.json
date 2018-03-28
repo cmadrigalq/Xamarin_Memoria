@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.Android/Memoria_lab_4.Android.csproj",
+      "projectUniqueName": "/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.Android/Memoria_lab_4.Android.csproj",
       "projectName": "Memoria_lab_4.Android",
-      "projectPath": "/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.Android/Memoria_lab_4.Android.csproj",
+      "projectPath": "/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.Android/Memoria_lab_4.Android.csproj",
       "packagesPath": "/Users/Cyn/.nuget/packages/",
-      "outputPath": "/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.Android/obj",
+      "outputPath": "/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.Android/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/Cyn/.config/NuGet/NuGet.Config"
@@ -726,8 +726,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.csproj": {
-              "projectPath": "/Users/Cyn/Dropbox/Cursos actuales/DC/LAB_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.csproj"
+            "/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.csproj": {
+              "projectPath": "/Users/Cyn/Dropbox/Cursos actuales/DC/Moviles Cyn/Xamarin_Memoria/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4/Memoria_lab_4.csproj"
             }
           }
         }
